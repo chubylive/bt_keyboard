@@ -1,0 +1,17 @@
+Cmp-Mod V01 Created by Cvpcb (2014-jan-25)-product   date = Sun 01 Jun 2014 08:23:29 PM EDT
+
+BeginCmp
+TimeStamp = /538B7F7D;
+Reference = IC1;
+ValeurCmp = MEGA32-A;
+IdModule  = avr:avr-TQFP44;
+EndCmp
+
+BeginCmp
+TimeStamp = /538B85D8;
+Reference = rn1;
+ValeurCmp = rn-42;
+IdModule  = ;
+EndCmp
+
+EndListe

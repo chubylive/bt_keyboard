@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name avr)(type Legacy)(uri "/home/chuby/local_prj/KICAD LIBRARIES/avr.mod")(options "")(descr ""))
+)
